@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag>@Login @API</tag>
+   <comment></comment>
+   <testCaseGuid>6f4c21c0-4f1a-49cc-93fe-17f8859947ce</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f7da9b7f-e09b-4988-b343-0759a4f6fd6e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6982284b-5a62-4725-8dbd-8a824fe99493</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8164e5bb-b09d-4eb9-9c05-644accbfedce</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'eve.holt@reqres.in'</defaultValue>
+      <description></description>
+      <id>f7da9b7f-e09b-4988-b343-0759a4f6fd6e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'cityslicka'</defaultValue>
+      <description></description>
+      <id>6982284b-5a62-4725-8dbd-8a824fe99493</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'peter@klaven'</defaultValue>
+      <description></description>
+      <id>8164e5bb-b09d-4eb9-9c05-644accbfedce</id>
+      <masked>false</masked>
+      <name>usernameF</name>
+   </variable>
+</TestCaseEntity>

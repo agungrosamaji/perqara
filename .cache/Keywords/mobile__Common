@@ -1,0 +1,40 @@
+{
+  "keywordFileContentHash": "B92CA5E5FED55B046CFC871BA8F5398D",
+  "keywordClasses": [
+    {
+      "name": "mobile.Common",
+      "keywordMethods": [
+        {
+          "name": "startApp",
+          "parameters": [],
+          "javadoc": "/**\r\n\t * Start Application\r\n\t */"
+        },
+        {
+          "name": "startAppExist",
+          "parameters": [],
+          "javadoc": "/**\r\n\t * Start Application Existing\r\n\t */"
+        },
+        {
+          "name": "verifyToastElement",
+          "parameters": [
+            {
+              "name": "textName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Check Toast\r\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
